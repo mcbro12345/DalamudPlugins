@@ -23,7 +23,7 @@
     "Author": "mcbro",
     "Name": "Gear Guide",
     "InternalName": "GearGuide",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "Description": "A native character-window-style panel showing the best gear for your current class and level, filtered by what you own, what's on the market board, vendor gear, crafted gear and more. Every slot has the game's own item tooltip and context menu, and the Recommended Gear button equips the picks you own.",
     "ApplicableVersion": "any",
     "Tags": ["gear", "equipment", "upgrade", "recommended", "market"],
@@ -35,9 +35,9 @@
     "Punchline": "The best gear for your level, at a glance",
     "IconUrl": "https://raw.githubusercontent.com/mcbro12345/GearGuide/main/images/icon.png",
     "RepoUrl": "https://github.com/mcbro12345/GearGuide",
-    "DownloadLinkInstall": "https://github.com/mcbro12345/GearGuide/releases/download/v1.0.0/GearGuide-1.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/mcbro12345/GearGuide/releases/download/v1.0.0/GearGuide-1.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/mcbro12345/GearGuide/releases/download/v1.0.0/GearGuide-1.0.0.zip"
+    "DownloadLinkInstall": "https://github.com/mcbro12345/GearGuide/releases/download/v1.0.1/GearGuide-1.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/mcbro12345/GearGuide/releases/download/v1.0.1/GearGuide-1.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/mcbro12345/GearGuide/releases/download/v1.0.1/GearGuide-1.0.1.zip"
   },
   {
     "Author": "mcbro",
@@ -63,7 +63,7 @@
     "Author": "mcbro",
     "Name": "Wares",
     "InternalName": "Wares",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "Description": "Mark inventory items as vendor wares or market listings with native badges, multi-select with Ctrl+click, and sell every marked ware in one click at vendors and retainers.",
     "ApplicableVersion": "any",
     "Tags": ["inventory", "vendor", "sell", "market", "junk"],
@@ -75,8 +75,8 @@
     "IconUrl": "https://raw.githubusercontent.com/mcbro12345/Wares/main/images/icon.png",
     "Punchline": "Mark it, sell it",
     "RepoUrl": "https://github.com/mcbro12345/Wares",
-    "DownloadLinkInstall": "https://github.com/mcbro12345/Wares/releases/download/v1.0.0/Wares-1.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/mcbro12345/Wares/releases/download/v1.0.0/Wares-1.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/mcbro12345/Wares/releases/download/v1.0.0/Wares-1.0.0.zip"
+    "DownloadLinkInstall": "https://github.com/mcbro12345/Wares/releases/download/v1.0.1/Wares-1.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/mcbro12345/Wares/releases/download/v1.0.1/Wares-1.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/mcbro12345/Wares/releases/download/v1.0.1/Wares-1.0.1.zip"
   }
 ]
