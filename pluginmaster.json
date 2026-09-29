@@ -43,7 +43,7 @@
     "Author": "mcbro",
     "Name": "Tell Messenger",
     "InternalName": "TellMessenger",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "Description": "Puts every tell in one messenger window. Each person gets their own conversation with saved history, unread badges, online status and location, replies and drafts. Linkshell chat (and optionally party, alliance and Free Company chat) goes in a Linkshells tab, and tells from strangers can wait in a Requests tab. Based on the WoW addon WhisperMessenger.",
     "ApplicableVersion": "any",
     "Tags": ["chat", "tell", "whisper", "messenger", "social"],
@@ -55,9 +55,9 @@
     "Punchline": "Never lose a tell again",
     "IconUrl": "https://raw.githubusercontent.com/mcbro12345/TellMessenger/main/images/icon.png",
     "RepoUrl": "https://github.com/mcbro12345/TellMessenger",
-    "DownloadLinkInstall": "https://github.com/mcbro12345/TellMessenger/releases/download/v1.0.0/TellMessenger-1.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/mcbro12345/TellMessenger/releases/download/v1.0.0/TellMessenger-1.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/mcbro12345/TellMessenger/releases/download/v1.0.0/TellMessenger-1.0.0.zip"
+    "DownloadLinkInstall": "https://github.com/mcbro12345/TellMessenger/releases/download/v1.0.1/TellMessenger-1.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/mcbro12345/TellMessenger/releases/download/v1.0.1/TellMessenger-1.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/mcbro12345/TellMessenger/releases/download/v1.0.1/TellMessenger-1.0.1.zip"
   },
   {
     "Author": "mcbro",
