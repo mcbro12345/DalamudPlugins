@@ -6,6 +6,7 @@ The custom plugin repository for my FFXIV Dalamud plugins.
 
 - [Fishing Clues](https://github.com/mcbro12345/FishingClues) - A better Fishing Log: spoiler-conscious, and packed with the info you actually need to find and catch fish.
 - [Gear Guide](https://github.com/mcbro12345/GearGuide) - The best gear for your class and level, in a native Character-window-style panel.
+- [Glamour Zones](https://github.com/mcbro12345/GlamourZones) - Puts on the right glamour plate for your job and where you are, automatically.
 - [Tell Messenger](https://github.com/mcbro12345/TellMessenger) - Every tell in one messenger window, with history, online status and unread badges.
 - [Wares](https://github.com/mcbro12345/Wares) - Mark inventory items as vendor wares or market listings, and sell every marked ware in one click.
 
