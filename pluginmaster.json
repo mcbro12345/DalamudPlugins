@@ -43,7 +43,7 @@
     "Author": "mcbro",
     "Name": "Glamour Zones",
     "InternalName": "GlamourZones",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.2.0",
     "Description": "Applies your glamour plates automatically. Make rules like \"Red Mage in Ishgard wears plate 4\": pick jobs, then places sorted by expansion (whole regions, cities, single zones or the exact area you're standing in), your house or FC house, Eorzea time and weather. The first matching rule wins, each job can have its own fallback, and if you're outside a resting area the plate goes on as soon as you reach one.",
     "ApplicableVersion": "any",
     "Tags": ["glamour", "glamour plate", "outfit", "fashion", "automation"],
@@ -55,9 +55,9 @@
     "Punchline": "The right outfit for every job and every place",
     "IconUrl": "https://raw.githubusercontent.com/mcbro12345/GlamourZones/main/images/icon.png",
     "RepoUrl": "https://github.com/mcbro12345/GlamourZones",
-    "DownloadLinkInstall": "https://github.com/mcbro12345/GlamourZones/releases/download/v1.0.1/GlamourZones-1.0.1.zip",
-    "DownloadLinkUpdate": "https://github.com/mcbro12345/GlamourZones/releases/download/v1.0.1/GlamourZones-1.0.1.zip",
-    "DownloadLinkTesting": "https://github.com/mcbro12345/GlamourZones/releases/download/v1.0.1/GlamourZones-1.0.1.zip"
+    "DownloadLinkInstall": "https://github.com/mcbro12345/GlamourZones/releases/download/v1.0.2/GlamourZones-1.0.2.zip",
+    "DownloadLinkUpdate": "https://github.com/mcbro12345/GlamourZones/releases/download/v1.0.2/GlamourZones-1.0.2.zip",
+    "DownloadLinkTesting": "https://github.com/mcbro12345/GlamourZones/releases/download/v1.0.2/GlamourZones-1.0.2.zip"
   },
   {
     "Author": "mcbro",
