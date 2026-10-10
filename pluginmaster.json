@@ -83,7 +83,7 @@
     "Author": "mcbro",
     "Name": "Wares",
     "InternalName": "Wares",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.2.0",
     "Description": "Mark inventory items as vendor wares or market listings with native badges, multi-select with Ctrl+click, and sell every marked ware in one click at vendors and retainers.",
     "ApplicableVersion": "any",
     "Tags": ["inventory", "vendor", "sell", "market", "junk"],
@@ -95,8 +95,8 @@
     "IconUrl": "https://raw.githubusercontent.com/mcbro12345/Wares/main/images/icon.png",
     "Punchline": "Mark it, sell it",
     "RepoUrl": "https://github.com/mcbro12345/Wares",
-    "DownloadLinkInstall": "https://github.com/mcbro12345/Wares/releases/download/v1.0.1/Wares-1.0.1.zip",
-    "DownloadLinkUpdate": "https://github.com/mcbro12345/Wares/releases/download/v1.0.1/Wares-1.0.1.zip",
-    "DownloadLinkTesting": "https://github.com/mcbro12345/Wares/releases/download/v1.0.1/Wares-1.0.1.zip"
+    "DownloadLinkInstall": "https://github.com/mcbro12345/Wares/releases/download/v1.0.2/Wares-1.0.2.zip",
+    "DownloadLinkUpdate": "https://github.com/mcbro12345/Wares/releases/download/v1.0.2/Wares-1.0.2.zip",
+    "DownloadLinkTesting": "https://github.com/mcbro12345/Wares/releases/download/v1.0.2/Wares-1.0.2.zip"
   }
 ]
